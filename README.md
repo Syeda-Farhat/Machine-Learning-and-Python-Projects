@@ -16,7 +16,6 @@ This Repository containing portfolio of Machine Learning and Python projects com
    * [The Minesweeper Game](https://github.com/Syeda-Farhat/Machine-Learning-and-Python-Projects/tree/main/minesweeper)  : This Python-based mine detection game, also known as Minesweeper, challenges players to uncover hidden mines within a grid of cells. Clicking on a mine results in a loss, while numbers displayed in cells reveal the count of adjacent mines. To aid in gameplay, users can mark potential mines with a right-click, creating an engaging puzzle experience.
      *Tools:* *tkinter library*
    * [Text-Based Game](https://github.com/Syeda-Farhat/Machine-Learning-and-Python-Projects/tree/main/Texted-Based%20Game)  : This project is an interactive quiz game where users start by running the program and entering their details. They are introduced to the game's rules in the main menu. Players make decisions with 'Y' for yes or 'N' for no, answering questions by entering choices. If the choice selected by the player is right then player will score 1 point and if its wrong then -1.
-   ### Data Science
    ### Deep Learning
    ### NLP
    
