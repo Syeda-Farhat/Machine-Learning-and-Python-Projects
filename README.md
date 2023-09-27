@@ -17,7 +17,6 @@ This Repository containing portfolio of Machine Learning and Python projects com
      *Tools:* *tkinter library*
    * [Text-Based Game](https://github.com/Syeda-Farhat/Machine-Learning-and-Python-Projects/tree/main/Texted-Based%20Game)  : This project is an interactive quiz game where users start by running the program and entering their details. They are introduced to the game's rules in the main menu. Players make decisions with 'Y' for yes or 'N' for no, answering questions by entering choices. If the choice selected by the player is right then player will score 1 point and if its wrong then -1.
    ### Deep Learning
-   ### NLP
    
    
 
