@@ -1,8 +1,8 @@
 # Machine Learning and Data Science Porfolio
-This Repository containing portfolio of Machine Learning and Data Science projects completed by me for academic, and self learning purposes. ML-based projects are in the form of Jupyter notebooks, and Python project are .py files. The Python Projects using different types of data structures, functions and techniques. 
+This Repository containing portfolio of Machine Learning combined domains projects completed by me for academic, and self learning purposes. ML-based projects are in the form of Jupyter notebooks, and Python project are .py files. The Python Projects using different types of libraries, models, data structures, functions and techniques. 
 ## Instructions for Running Python Notebooks Locally
 1. Install dependencies using requirements.txt (if available in project folder) otherwise required libraries are mentioned at the start of each notebook.
-2. Run notebooks as usual by using a jupyter notebook server, colab, VScode etc.
+2. Run notebooks as usual by using a jupyter notebook server, colab etc.
 3. Dataset or downloadable link is mentioned in each project folder.
 # Projects 
    ### Machine Learning 
